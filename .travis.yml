@@ -4,7 +4,7 @@ python:
 
 install:
   - pip install black flake8 coverage coveralls
-  - pip install -r requirements.txt
+  - pip install -r swe_1/requirements.txt
 
 script:
   - black --check .
