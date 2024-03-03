@@ -19,8 +19,7 @@ branches:
   only:
     - master
 
-after_success:
-  - coveralls
+
 
 
 deploy:
