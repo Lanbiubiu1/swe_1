@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="12th config" />
+    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="14th config">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709430779467</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="14th config">
+      <option name="closed" value="true" />
+      <created>1709431058160</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709431058160</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,7 +268,8 @@
     <MESSAGE value="short the line config" />
     <MESSAGE value="tenth config" />
     <MESSAGE value="12th config" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th config" />
+    <MESSAGE value="14th config" />
+    <option name="LAST_COMMIT_MESSAGE" value="14th config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
