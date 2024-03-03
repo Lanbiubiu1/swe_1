@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="26th config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swe_1/.flake8" beforeDir="false" afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swe_1/polls/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/polls/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swe_1/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swe_1/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -364,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709436707426</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="26th config">
+      <option name="closed" value="true" />
+      <created>1709437002522</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1709437002522</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
