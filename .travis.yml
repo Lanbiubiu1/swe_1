@@ -17,6 +17,7 @@ after_success:
 
 deploy:
   provider: elasticbeanstalk
+  access_key_id: $AWS_ACCESS_KEY_ID
   region: "us-west-2"
   app: "django-polls"
   env: "django-env"
