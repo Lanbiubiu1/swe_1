@@ -3,7 +3,7 @@ python:
   - "3.8"
 
 install:
-  - pip install --upgrade urllib3
+
   - pip install -r swe_1/requirements.txt
   - pip install coverage coveralls black flake8
 
