@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="33th config">
+    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="final config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -90,14 +90,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708315207169</updated>
-    </task>
-    <task id="LOCAL-00003" summary="finished simple poll">
-      <option name="closed" value="true" />
-      <created>1708328096311</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1708328096311</updated>
     </task>
     <task id="LOCAL-00004" summary="finished simple poll">
       <option name="closed" value="true" />
@@ -483,7 +475,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709443455866</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="final config">
+      <option name="closed" value="true" />
+      <created>1709443763380</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1709443763380</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finished simple poll" />
     <MESSAGE value="config" />
     <MESSAGE value="second config" />
     <MESSAGE value="third config" />
@@ -523,6 +522,7 @@
     <MESSAGE value="28th config" />
     <MESSAGE value="30th config" />
     <MESSAGE value="33th config" />
-    <option name="LAST_COMMIT_MESSAGE" value="33th config" />
+    <MESSAGE value="final config" />
+    <option name="LAST_COMMIT_MESSAGE" value="final config" />
   </component>
 </project>
