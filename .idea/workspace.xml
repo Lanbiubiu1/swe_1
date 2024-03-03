@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="30th config">
+    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="33th config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swe_1/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -475,7 +476,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709442885175</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="33th config">
+      <option name="closed" value="true" />
+      <created>1709443017179</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1709443017179</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="second commit" />
     <MESSAGE value="finished simple poll" />
     <MESSAGE value="config" />
     <MESSAGE value="second config" />
@@ -515,6 +523,7 @@
     <MESSAGE value="26th config" />
     <MESSAGE value="28th config" />
     <MESSAGE value="30th config" />
-    <option name="LAST_COMMIT_MESSAGE" value="30th config" />
+    <MESSAGE value="33th config" />
+    <option name="LAST_COMMIT_MESSAGE" value="33th config" />
   </component>
 </project>
