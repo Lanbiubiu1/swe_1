@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="26th config">
+    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="28th config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/swe_1/polls/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/polls/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swe_1/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swe_1/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -373,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709437002522</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="28th config">
+      <option name="closed" value="true" />
+      <created>1709437720853</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1709437720853</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,17 +418,7 @@
     <MESSAGE value="24th config" />
     <MESSAGE value="25th config" />
     <MESSAGE value="26th config" />
-    <option name="LAST_COMMIT_MESSAGE" value="26th config" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="28th config" />
+    <option name="LAST_COMMIT_MESSAGE" value="28th config" />
   </component>
 </project>
