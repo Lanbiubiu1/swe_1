@@ -10,7 +10,7 @@ script:
   - cd swe_1
   - black .
   - flake8 .
-  - coverage run --source=swe_1,polls manage.py test
+  - coverage run --source=mypkg -m pytest tests/
 
 after_success:
   - coveralls
