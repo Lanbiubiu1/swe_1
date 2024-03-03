@@ -6,6 +6,10 @@ install:
   - pip install black flake8 coverage coveralls
   - pip install -r swe_1/requirements.txt
 
+before_script:
+  - python manage.py migrate
+  - python manage.py collectstatic --noinput
+
 script:
   - cd swe_1
   - black .
