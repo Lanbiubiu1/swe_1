@@ -7,9 +7,8 @@ install:
   - pip install coverage coveralls black flake8
 
 before_script:
-  - cd swe_1
-  - black .
-  - flake8 .
+  - flake8 --max-line-length=88
+  - black --check .
 
 script:
   - coverage run --source=swe_1,polls manage.py test
