@@ -13,7 +13,7 @@ before_script:
 script:
   - coverage run --source=swe_1,polls manage.py test
   - coverage xml
-
+  - COVERALLS_REPO_TOKEN=N2Cm5dCIaWxDYk3RAh9KjRoi2EAef3gMu
 
 branches:
   only:
