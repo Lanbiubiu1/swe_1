@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="seventh config">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="short the line config">
       <change beforePath="$PROJECT_DIR$/swe_1/swe_1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/swe_1/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709426233180</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="short the line config">
+      <option name="closed" value="true" />
+      <created>1709426658918</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709426658918</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,7 +217,8 @@
     <MESSAGE value="fifth config" />
     <MESSAGE value="sixth config" />
     <MESSAGE value="seventh config" />
-    <option name="LAST_COMMIT_MESSAGE" value="seventh config" />
+    <MESSAGE value="short the line config" />
+    <option name="LAST_COMMIT_MESSAGE" value="short the line config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

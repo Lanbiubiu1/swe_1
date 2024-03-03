@@ -26,7 +26,8 @@ SECRET_KEY = ('django-insecure-*!62ql9yu_y*y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-env.eba-yppn8aku.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['django-env.eba-yppn8aku'
+                 '.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
@@ -55,7 +56,8 @@ ROOT_URLCONF = 'swe_1.urls'
 
 TEMPLATES = [
     {
-        'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        'BACKEND': 'django.template.backends.'
+                   'django.DjangoTemplates',
         'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
@@ -89,16 +91,20 @@ DATABASES = {
 AUTH_PASSWORD_VALIDATORS = [
     {
         'NAME':
-            'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
+            'django.contrib.auth.password_vali'
+            'dation.UserAttributeSimilarityValidator',
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',
+        'NAME': 'django.contrib.auth.passwo'
+                'rd_validation.MinimumLengthValidator',
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',
+        'NAME': 'django.contrib.auth.passwor'
+                'd_validation.CommonPasswordValidator',
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
+        'NAME': 'django.contrib.auth.password'
+                '_validation.NumericPasswordValidator',
     },
 ]
 
