@@ -1,10 +1,5 @@
-from django.shortcuts import render
-
 # Create your views here.
-from django.shortcuts import get_object_or_404, render
-from django.http import HttpRequest, HttpResponse, HttpResponseRedirect
-from django.db.models import QuerySet
-from django.http import HttpRequest, HttpResponse, HttpResponseRedirect
+from django.http import HttpRequest, HttpResponseRedirect
 from django.shortcuts import get_object_or_404, render
 from django.urls import reverse
 from django.utils import timezone

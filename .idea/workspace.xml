@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="fourth config">
+    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="fifth config">
+      <change beforePath="$PROJECT_DIR$/.flake8" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/.flake8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swe_1/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swe_1/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/polls/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/swe_1/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zixiao\PycharmProjects\swe_1\swe_1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="swe_1" />
@@ -159,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709424385823</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fifth config">
+      <option name="closed" value="true" />
+      <created>1709425353008</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709425353008</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +193,8 @@
     <MESSAGE value="second config" />
     <MESSAGE value="third config" />
     <MESSAGE value="fourth config" />
-    <option name="LAST_COMMIT_MESSAGE" value="fourth config" />
+    <MESSAGE value="fifth config" />
+    <option name="LAST_COMMIT_MESSAGE" value="fifth config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
