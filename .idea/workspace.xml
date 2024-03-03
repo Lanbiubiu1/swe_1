@@ -7,7 +7,6 @@
     <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="33th config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swe_1/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,14 +90,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708315207169</updated>
-    </task>
-    <task id="LOCAL-00001" summary="second commit">
-      <option name="closed" value="true" />
-      <created>1708316663517</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1708316663517</updated>
     </task>
     <task id="LOCAL-00002" summary="finished simple poll">
       <option name="closed" value="true" />
@@ -484,7 +475,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709443017179</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="33th config">
+      <option name="closed" value="true" />
+      <created>1709443163143</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1709443163144</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
