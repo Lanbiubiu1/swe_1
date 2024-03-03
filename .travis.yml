@@ -7,7 +7,8 @@ install:
   - pip install -r swe_1/requirements.txt
 
 script:
-  - black --check .
+  - cd swe_1
+  - black .
   - flake8 .
   - coverage run --source=swe_1,polls manage.py test
 

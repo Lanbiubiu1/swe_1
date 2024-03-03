@@ -1,11 +1,7 @@
 from django.db import models
 
 # Create your models here.
-import datetime
-
-
 from django.db import models
-
 
 
 class Question(models.Model):
@@ -14,6 +10,7 @@ class Question(models.Model):
 
     def __str__(self) -> str:
         return self.question_text
+
 
 class Choice(models.Model):
     question = models.ForeignKey(to=Question, on_delete=models.CASCADE)

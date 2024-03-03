@@ -50,6 +50,3 @@ def vote(request: HttpRequest, question_id: int) :
         return HttpResponseRedirect(
             redirect_to=reverse("polls:results", args=(question.id,))
         )
-
-
-
