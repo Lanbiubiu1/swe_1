@@ -5,6 +5,7 @@ python:
 install:
   - pip install -r swe_1/requirements.txt
   - pip install coverage coveralls black flake8
+  - pip install --upgrade urllib3
 
 before_script:
   - flake8 --max-line-length=88
