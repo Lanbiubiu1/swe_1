@@ -14,6 +14,12 @@ script:
   - coverage xml
   - COVERALLS_REPO_TOKEN=N2Cm5dCIaWxDYk3RAh9KjRoi2EAef3gMu
 
+branches:
+  only:
+    - master
+
+after_script:
+  - coveralls
 
 
 deploy:
