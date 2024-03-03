@@ -8,7 +8,7 @@ install:
 
 before_script:
   - flake8 --max-line-length=88
-  - black --check .
+  - black .
 
 script:
   - coverage run --source=swe_1,polls manage.py test

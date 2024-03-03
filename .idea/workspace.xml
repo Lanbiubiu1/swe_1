@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="28th config">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swe_1/polls/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/swe_1/polls/migrations/0001_initial.py" afterDir="false" />
+    <list default="true" id="1afc780a-5236-4114-ae0a-cbfde58874c4" name="Changes" comment="30th config">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -387,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709437986144</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="30th config">
+      <option name="closed" value="true" />
+      <created>1709438208063</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1709438208063</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -426,6 +433,7 @@
     <MESSAGE value="25th config" />
     <MESSAGE value="26th config" />
     <MESSAGE value="28th config" />
-    <option name="LAST_COMMIT_MESSAGE" value="28th config" />
+    <MESSAGE value="30th config" />
+    <option name="LAST_COMMIT_MESSAGE" value="30th config" />
   </component>
 </project>
