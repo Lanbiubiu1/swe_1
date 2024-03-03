@@ -20,7 +20,7 @@ deploy:
   access_key_id: $AWS_ACCESS_KEY_ID
   secret_access_key: $AWS_SECRET_ACCESS_KEY
   region: "us-west-2"
-  app: "django-polls"
+  app: "django_polls"
   env: "django-env"
   bucket_name: "elasticbeanstalk-us-west-2-533267125325"
   on:
